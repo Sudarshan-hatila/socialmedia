@@ -1,0 +1,2 @@
+-view user profile controller and routes(-password)
+-edit profilecontroller and routes(user can add there profile photo,bio)
